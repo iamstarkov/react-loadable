@@ -1,5 +1,5 @@
 {
-  "name": "react-loadable",
+  "name": "@iamstarkov/react-loadable",
   "version": "4.0.5",
   "description": "A higher order component for loading components with promises",
   "main": "lib/index.js",
